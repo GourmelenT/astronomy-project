@@ -12,5 +12,6 @@ I followed <a href="https://www.youtube.com/@TechWithTim
 
 Here is an image of the simulation that was carried out: 
 
-![SolarSystem](https://user-images.githubusercontent.com/GourmelenT/astronomy-project/main/asset/SolarSystem.mp4)
+![Solar System Video](https://youtube.com/embed/FEvSHhFO7Uo?autoplay=1)
+
 
