@@ -12,7 +12,7 @@ I followed <a href="https://www.youtube.com/@TechWithTim
 
 Here is an image of the simulation that was carried out: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/FEvSHhFO7Uo?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FEvSHhFO7Uo?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 
 
